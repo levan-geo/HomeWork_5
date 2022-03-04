@@ -1,0 +1,42 @@
+/*Base classes*/
+.text-block{
+    display: block;
+}
+
+.text-bold{
+    font-family: Poppins;
+    font-display: swap;
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+.text-blue{
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #5863F8;
+}
+
+.text-black{
+    font-size: 18px;
+    color: #000000;
+}
+
+.text-margin{
+    margin-top: 82px;
+    margin-bottom: 1px;
+}
+
+/*firs section*/
+.main{
+    width: 1366px;
+    margin: 0 auto;
+}
+
+.head-text {
+    width: 498px;
+    float: left;
+    font-size: 42px;
+    margin-bottom: 50px;
+}
+
