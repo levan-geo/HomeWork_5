@@ -28,6 +28,7 @@
 
 .text-grey{
     font-family: Poppins;
+    color: #B1B1B1;
     font-size: 14px;
     font-weight: 500;
     font-style: normal;
@@ -35,9 +36,23 @@
     margin-top: 10px;
 }
 
+.text-center{
+    text-align: center;
+}
+
+
+.hidden{
+    visibility: hidden;
+}
+
 .text-margin{
     margin-top: 82px;
     margin-bottom: 1px;
+}
+
+.text-margin2{
+    margin-top: 23px;
+    margin-bottom: 5px;
 }
 
 .clear{
@@ -76,6 +91,13 @@
     margin: 37px 0 36px 16px;
 }
 
+.text-block2{
+    width: 352px;
+    text-align: center;
+}
+
 .second-box{
     width: 352px;
+    margin-right: 16px;
+    margin-bottom: 16px;
 }
