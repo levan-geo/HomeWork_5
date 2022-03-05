@@ -20,6 +20,19 @@
 .text-black{
     font-size: 18px;
     color: #000000;
+    font-family: Poppins;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+.text-grey{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+    margin-top: 10px;
 }
 
 .text-margin{
@@ -27,6 +40,17 @@
     margin-bottom: 1px;
 }
 
+.clear{
+    clear: both;
+}
+
+.f-left{
+    float: left;
+}
+
+.border-color{
+    border:  1px solid blue;
+}
 /*firs section*/
 .main{
     width: 1366px;
@@ -37,6 +61,21 @@
     width: 498px;
     float: left;
     font-size: 42px;
-    margin-bottom: 50px;
+    margin-bottom: 50px;/
 }
 
+.div-box{
+    width: 536px;
+    height: 190px;
+    background-color: #F8F8F8;
+    margin-right: 16px;
+    margin: 0 16px 16px 0;
+}
+
+.div-text-box{
+    margin: 37px 0 36px 16px;
+}
+
+.second-box{
+    width: 352px;
+}
